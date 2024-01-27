@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-i)ak=s+p77&ga030a%730cmjpu^^u=x_bje#$t^r(i(n)y9oea
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '8000-roc-11-django-project-he-1dfjm01ddk.us2.codeanyapp.com', '.herokuapp.com']
+    '8000-roc-11-django-project-he-1dfjm01ddk.us2.codeanyapp.com', 
+    '.herokuapp.com']
 
 
 # Application definition
